@@ -1,4 +1,5 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisjust&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjust&theme=dark&layout=compact)
 
 <!--
 **chrisjust/chrisjust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
