@@ -1,8 +1,5 @@
 You might be looking for [Smørfugl](https://github.com/smoerfugl) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisjust&show_icons=true&theme=github_dark_dimmed)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjust&theme=github_dark_dimmed&layout=compact)
-
 <!--
 **chrisjust/chrisjust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
